@@ -13,23 +13,23 @@ public class RockPaperScissors {
 
         do {
             do {
-                System.out.println("Enter player one's move");
+                System.out.println("Enter player one's move [S(cissors), P(aper), R(ock)]");
                 playerA = scan.nextLine();
                 if (playerA.equalsIgnoreCase("s") || playerA.equalsIgnoreCase("r") || playerA.equalsIgnoreCase("p")) {
                     validA = true;
                 } else {
-                    System.out.println("Enter a valid input");
+                    System.out.println("You entered an invalid input, try again");
                     System.out.println();
                 }
             } while (!validA);
 
             do {
-                System.out.println("Enter player two's move");
+                System.out.println("Enter player two's move [S(cissors), P(aper), R(ock)]");
                 playerB = scan.nextLine();
                 if (playerB.equalsIgnoreCase("s") || playerB.equalsIgnoreCase("r") || playerB.equalsIgnoreCase("p")) {
                     validB = true;
                 } else {
-                    System.out.println("Enter a valid input");
+                    System.out.println("You entered an invalid input, try again");
                     System.out.println();
                 }
             } while (!validB);
@@ -73,7 +73,7 @@ public class RockPaperScissors {
                 else if (onward.equalsIgnoreCase("n")) {
                     onwardValid = true;
                     repeat = false;
-                    System.out.println("Game end");
+                    System.out.println("Game terminated");
                 }
                 else {
                     System.out.println("Invalid input, try again");
