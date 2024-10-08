@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4492a121-673c-4719-a863-3e0fc0f49bc5" name="Changes" comment="hi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RockPaperScissors.java" afterDir="false" />
-    </list>
+    <list default="true" id="4492a121-673c-4719-a863-3e0fc0f49bc5" name="Changes" comment="last oine hopefuly" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,12 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728389581434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="last oine hopefuly">
+      <option name="closed" value="true" />
+      <created>1728390599100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728390599100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day2" />
     <MESSAGE value="hi" />
-    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+    <MESSAGE value="last oine hopefuly" />
+    <option name="LAST_COMMIT_MESSAGE" value="last oine hopefuly" />
   </component>
 </project>
