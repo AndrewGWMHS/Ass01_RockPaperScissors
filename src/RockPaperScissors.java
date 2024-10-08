@@ -76,6 +76,8 @@ public class RockPaperScissors {
                     System.out.println("Game terminated");
                 }
                 else {
+                    onwardValid = false;
+                    repeat = false;
                     System.out.println("Invalid input, try again");
                 }
             } while (!onwardValid);
